@@ -2,7 +2,7 @@
 ID_questionnaire	number of completed questionnaire
 
 Part I
-q1	question 1 
+q1	    question 1 
 q2_r1 	question 2 first answer
 q2_r2 	question 2 second answer
 q2_r3 	question 2 third answer
